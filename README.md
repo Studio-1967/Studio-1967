@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Studio-1967/Studio-1967/assets/169310942/8a755f99-cc5e-4a2b-9dfc-9ef474f48bdf" alt="animated" />
+  <img src="https://github.com/Studio-1967/Studio-1967/blob/main/fond%20studio.jpg?raw=true" alt="banière" />
 </div>
+
 <h1 align="center">Bienvenue sur le github du studio 1967 👋</h1>
 
 <p align="center">
@@ -9,4 +10,6 @@
 <p align="center">
   Dans un souci de simplification maximale, je me permettrai de documenter en français.
 </p>
-
+<div align="center">
+  <img src="https://github.com/Studio-1967/Studio-1967/blob/main/Studio1967_Cafe.gif?raw=true" alt="animated" />
+</div>
